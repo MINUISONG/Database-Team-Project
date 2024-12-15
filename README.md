@@ -13,5 +13,7 @@ Key Features:
 Technologies Used:
 
 • SQL for database design and query implementation.
+
 • Flask for creating RESTful APIs.
+
 • ER modeling for database architecture.
