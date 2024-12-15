@@ -11,6 +11,7 @@ Key Features:
 • Database Design: Comprehensive relational schema for boards, posts, user interactions, and course evaluations.
 
 Technologies Used:
+
 • SQL for database design and query implementation.
 • Flask for creating RESTful APIs.
 • ER modeling for database architecture.
